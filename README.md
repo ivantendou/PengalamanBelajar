@@ -1,6 +1,6 @@
 # PengalamanBelajar
-Halo, saya Koni  
-Repository Ini Berisi Pengalaman Belajar saya di Dicoding
+Halo, saya Ivan  
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 **14 Juni 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
